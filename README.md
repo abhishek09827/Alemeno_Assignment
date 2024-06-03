@@ -48,7 +48,7 @@ This repository contains a web application that allows users to upload an image 
 1. **Navigate to the frontend directory:**
 
    ```bash
-   cd frontend
+   cd frontend/urineStrip
 2. **Install the frontend dependencies:**
 
    ```bash
